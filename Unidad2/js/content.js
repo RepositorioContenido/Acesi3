@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: b0fdc654
- *  generatedAt:   2026-11-06T20:10:42.784Z
+ *  contentSha256: 136edef2
+ *  generatedAt:   2026-11-11T16:52:54.967Z
  */
-window.OVA_CONTENT_META = { contentSha256: "b0fdc654", generatedAt: "2026-11-06T20:10:42.784Z" };
+window.OVA_CONTENT_META = { contentSha256: "136edef2", generatedAt: "2026-11-11T16:52:54.972Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Identificación temprana de señales de alerta y conversación segura",
   "unitCode": "Unidad 2",
@@ -172,7 +172,7 @@ window.OVA_CONTENT = {
           "heroIcon": "assets/icons/Act_teorica.png",
           "icon": "assets/icons/Act_teorica.png",
           "kicker": "ACTIVIDAD TEÓRICA",
-          "headline": "Actividad teórica",
+          "headline": "Lectura: Reconocimiento de señales de alerta y comunicación segura ante el riesgo suicida",
           "paragraphs": [
             "Explore los conceptos que le permitirán fortalecer sus conocimientos.",
             "Dé clic en el botón para comenzar."
@@ -207,7 +207,7 @@ window.OVA_CONTENT = {
           "heroIcon": "assets/icons/practica.png",
           "icon": "assets/icons/practica.png",
           "kicker": "ACTIVIDAD PRÁCTICA",
-          "headline": "Actividad práctica",
+          "headline": "Análisis del proceso de identificación temprana de señales de alerta y actuación inicial ante la posibilidad de conducta suicida",
           "paragraphs": [
             "¡Es momento de aplicar lo aprendido!",
             "Dé clic en el botón y ponga a prueba sus conocimientos."
