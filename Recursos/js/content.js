@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 51f9ec30
- *  generatedAt:   2026-11-05T23:11:01.314Z
+ *  contentSha256: 2105ec9c
+ *  generatedAt:   2026-11-11T17:07:40.045Z
  */
-window.OVA_CONTENT_META = { contentSha256: "51f9ec30", generatedAt: "2026-11-05T23:11:01.314Z" };
+window.OVA_CONTENT_META = { contentSha256: "2105ec9c", generatedAt: "2026-11-11T17:07:40.045Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Implementación del Código Dorado para la identificación temprana del riesgo suicida y la activación oportuna de la atención integral en hospitales públicos de Colombia",
   "unitCode": "Recursos de apoyo",
@@ -508,7 +508,7 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Ilustraciones y diseño digital:",
-        "names": "Liam Pamela Hermida García - William Gonzáles"
+        "names": "Liam Pamela Hermida García"
       },
       {
         "role": "Diagramación:",

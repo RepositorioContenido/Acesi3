@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 136edef2
- *  generatedAt:   2026-11-11T16:52:54.967Z
+ *  contentSha256: a9c99dd8
+ *  generatedAt:   2026-11-11T17:06:00.683Z
  */
-window.OVA_CONTENT_META = { contentSha256: "136edef2", generatedAt: "2026-11-11T16:52:54.972Z" };
+window.OVA_CONTENT_META = { contentSha256: "a9c99dd8", generatedAt: "2026-11-11T17:06:00.683Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Identificación temprana de señales de alerta y conversación segura",
   "unitCode": "Unidad 2",
@@ -269,11 +269,11 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Equipo Técnico Fundación Visión Salud:",
-        "names": "Paola Rueda Casallas"
+        "names": "Maria Alejandra Parra Caicedo - Iris Andrea Moya Muñoz"
       },
       {
         "role": "Asesoría y diseño pedagógico:",
-        "names": "Alba Lucía Núñez G. - Samir Balanta Perea"
+        "names": "Alba Lucía Núñez G. - Diego Fernando Arias Peña"
       },
       {
         "role": "Adecuación y corrección de estilo:",
@@ -281,7 +281,7 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Ilustraciones y diseño digital:",
-        "names": "Liam Pamela Hermida García - William Gonzáles"
+        "names": "Liam Pamela Hermida García"
       },
       {
         "role": "Diagramación:",

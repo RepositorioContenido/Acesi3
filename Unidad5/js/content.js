@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: e5331baa
- *  generatedAt:   2026-11-06T20:10:42.917Z
+ *  contentSha256: 5b2b2920
+ *  generatedAt:   2026-11-11T17:06:51.471Z
  */
-window.OVA_CONTENT_META = { contentSha256: "e5331baa", generatedAt: "2026-11-06T20:10:42.917Z" };
+window.OVA_CONTENT_META = { contentSha256: "5b2b2920", generatedAt: "2026-11-11T17:06:51.472Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Justicia ambiental y sostenibilidad para la competitividad territorial y organizacional",
   "unitCode": "Unidad 5",
@@ -249,11 +249,11 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Equipo Técnico Fundación Visión Salud:",
-        "names": "Paola Rueda Casallas"
+        "names": "Maria Alejandra Parra Caicedo - Iris Andrea Moya Muñoz"
       },
       {
         "role": "Asesoría y diseño pedagógico:",
-        "names": "Alba Lucía Núñez G. - Samir Balanta Perea"
+        "names": "Alba Lucía Núñez G. - Diego Fernando Arias Peña"
       },
       {
         "role": "Adecuación y corrección de estilo:",
@@ -261,7 +261,7 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Ilustraciones y diseño digital:",
-        "names": "Liam Pamela Hermida García - William Gonzáles"
+        "names": "Liam Pamela Hermida García"
       },
       {
         "role": "Diagramación:",

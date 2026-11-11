@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: fba21c6e
- *  generatedAt:   2026-11-06T20:10:42.739Z
+ *  contentSha256: c8bfba96
+ *  generatedAt:   2026-11-11T17:05:52.431Z
  */
-window.OVA_CONTENT_META = { contentSha256: "fba21c6e", generatedAt: "2026-11-06T20:10:42.739Z" };
+window.OVA_CONTENT_META = { contentSha256: "c8bfba96", generatedAt: "2026-11-11T17:05:52.434Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Fundamentos del Código Dorado y la estrategia nacional para la protección de la vida",
   "unitCode": "Unidad 1",
@@ -269,11 +269,11 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Equipo Técnico Fundación Visión Salud:",
-        "names": "Paola Rueda Casallas"
+        "names": "Maria Alejandra Parra Caicedo - Iris Andrea Moya Muñoz"
       },
       {
         "role": "Asesoría y diseño pedagógico:",
-        "names": "Alba Lucía Núñez G. - Samir Balanta Perea"
+        "names": "Alba Lucía Núñez G. - Diego Fernando Arias Peña"
       },
       {
         "role": "Adecuación y corrección de estilo:",
@@ -281,7 +281,7 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Ilustraciones y diseño digital:",
-        "names": "Liam Pamela Hermida García - William Gonzáles"
+        "names": "Liam Pamela Hermida García"
       },
       {
         "role": "Diagramación:",

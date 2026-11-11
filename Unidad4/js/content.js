@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: aef1e098
- *  generatedAt:   2026-11-06T20:10:42.871Z
+ *  contentSha256: 8be25373
+ *  generatedAt:   2026-11-11T17:06:39.325Z
  */
-window.OVA_CONTENT_META = { contentSha256: "aef1e098", generatedAt: "2026-11-06T20:10:42.872Z" };
+window.OVA_CONTENT_META = { contentSha256: "8be25373", generatedAt: "2026-11-11T17:06:39.325Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Continuidad del cuidado y cultura institucional de protección de la vida",
   "unitCode": "Unidad 4",
@@ -270,11 +270,11 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Equipo Técnico Fundación Visión Salud:",
-        "names": "Paola Rueda Casallas"
+        "names": "Maria Alejandra Parra Caicedo - Iris Andrea Moya Muñoz"
       },
       {
         "role": "Asesoría y diseño pedagógico:",
-        "names": "Alba Lucía Núñez G. - Samir Balanta Perea"
+        "names": "Alba Lucía Núñez G. - Diego Fernando Arias Peña"
       },
       {
         "role": "Adecuación y corrección de estilo:",
@@ -282,7 +282,7 @@ window.OVA_CONTENT = {
       },
       {
         "role": "Ilustraciones y diseño digital:",
-        "names": "Liam Pamela Hermida García - William Gonzáles"
+        "names": "Liam Pamela Hermida García"
       },
       {
         "role": "Diagramación:",
