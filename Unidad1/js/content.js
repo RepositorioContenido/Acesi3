@@ -145,7 +145,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Directivo y médica conversando en un pasillo del hospital",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Espera serena en salud mental",
-      "youtubeUrl": "https://www.youtube.com/watch?v=3tkY4UPax3s"
+      "youtubeUrl": "https://www.youtube.com/watch?v=tezTczbeBEk"
     },
     {
       "id": "03",

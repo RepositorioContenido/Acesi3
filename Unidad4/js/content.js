@@ -146,7 +146,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Abuela leyendo un libro con su nieto",
       "modalImage": "assets/modal1.jpg",
       "modalImageAlt": "Escucha empática en apoyo familiar",
-      "youtubeUrl": "https://www.youtube.com/watch?v=3tkY4UPax3s"
+      "youtubeUrl": "https://www.youtube.com/watch?v=DGC6xJgZwqU"
     },
     {
       "id": "03",
