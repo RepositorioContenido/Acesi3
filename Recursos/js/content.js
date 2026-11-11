@@ -496,11 +496,11 @@ window.OVA_CONTENT = {
     "sections": [
       {
         "role": "Equipo Técnico Fundación Visión Salud:",
-        "names": "Paola Rueda Casallas"
+        "names": "Maria Alejandra Parra Caicedo - Iris Andrea Moya Muñoz"
       },
       {
         "role": "Asesoría y diseño pedagógico:",
-        "names": "Alba Lucía Núñez G. - Samir Balanta Perea"
+        "names": "Alba Lucía Núñez G. - Diego Fernando Arias Peña"
       },
       {
         "role": "Adecuación y corrección de estilo:",
